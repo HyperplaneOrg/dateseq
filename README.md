@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.org/HyperplaneOrg/dateseq.svg?branch=master)](https://travis-ci.org/HyperplaneOrg/dateseq)
+
 # dateseq
  _dateseq_ is a simple golang command-line utility that prints a date/datetime sequence. It is really a "hello world" like toy **go** project but one might actually find it handy for shell scripting. See the usage examples below
 
-#### Build
+### Build
 To build this utility you will need to:
 1. have **go** installed, [golang.org/doc/install](https://golang.org/doc/install)
 2. have your $GOPATH set, see [setting your GOPATH](https://github.com/golang/go/wiki/Setting-GOPATH)
@@ -17,11 +19,10 @@ $ cd dateseq
 $ go build
 ```
 
-#### Usage Examples
----
+### Usage Examples
 
 ```shell
-./dateseq 20010101 20010107
+$ dateseq 20010101 20010107
 20010101
 20010102
 20010103
