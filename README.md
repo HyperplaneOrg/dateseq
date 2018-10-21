@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/HyperplaneOrg/dateseq.svg?branch=master)](https://travis-ci.org/HyperplaneOrg/dateseq) [![Coverage Status](https://coveralls.io/repos/github/HyperplaneOrg/dateseq/badge.svg)](https://coveralls.io/github/HyperplaneOrg/dateseq)
+[![Build Status](https://travis-ci.org/HyperplaneOrg/dateseq.svg?branch=master)](https://travis-ci.org/HyperplaneOrg/dateseq) [![Coverage Status](https://coveralls.io/repos/github/HyperplaneOrg/dateseq/badge.svg?branch=master)](https://coveralls.io/github/HyperplaneOrg/dateseq?branch=master)
 ---
 
 # dateseq
