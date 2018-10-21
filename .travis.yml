@@ -7,9 +7,10 @@ sudo: false
 # version of Go, this could give one warning that the code will break 
 # with future versions of GO. 
 go:
-  - 1.9
-  - 1.10
-  - tip
+  - "1.8"
+  - "1.9"
+  - "1.10"
+  - "tip"
 
 matrix:
   # It's ok if the code fails on the unstable development versions of Go (noted above).
