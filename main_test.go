@@ -30,3 +30,10 @@ func TestPraseDate(t *testing.T) {
 	}
 
 }
+
+func TestPrintDateStr(t *testing.T) {
+	var outfrmt string = "%Y%m%d"
+	var dth string = "2018010101"
+	tmd, _ := parseDateStr(dth)
+	printDateStr(tmd, outfrmt)
+}
